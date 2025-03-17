@@ -126,8 +126,7 @@ export default function Home() {
             <h1 className="text-5xl font-bold">Education</h1>
             <p className="mt-4 text-3xl max-w-3xl font-medium">
               I am a junior Computer Scientist in Kutaisi International
-              Univeristy (KIU), working as a student assistant teaching
-              scripting languages to hundreds of sophomores.
+              University (KIU), currently working as a Frontend developer at DevsData LLC.
             </p>
           </>
         );

@@ -157,7 +157,7 @@ export default function Home() {
                 className="mt-4 text-lg md:text-3xl max-w-xl font-medium hover:text-cyan-400"
                 href="https://dared-events.vercel.app/"
               >
-                Team building 'Kahoot'-like game
+                Team building &apos;Kahoot&apos;-like game
               </a>
             </div>
           </>
@@ -168,7 +168,7 @@ export default function Home() {
             <h1 className="text-3xl md:text-5xl font-bold px-4">Education</h1>
             <p className="mt-4 text-xl md:text-3xl max-w-3xl font-medium px-4">
               I am a graduate of Kutaisi International University (KIU), with a
-              Bachelor's degree in Computer Science & minor in advanced
+              Bachelor&apos;s degree in Computer Science & minor in advanced
               mathematics.
             </p>
           </>
